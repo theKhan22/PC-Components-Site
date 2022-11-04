@@ -54,10 +54,200 @@
       </div>
     </nav>
 
+    <!-- second child -->
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="#">Welcome Guest</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">login</a>
+        </li>
+
+      </ul>
+
+    </nav>
+
+    <!--third child-->
+
+    <div class="bg-light">
+      <h3 class="text-center">Tech Store</h3>
+      <p class="text-center">Built for pc enthusiats by pc enthusiasts</p>
+    </div>
+
+
+
+    <!--fourth child-->
+    <div class="row">
+      <div class="col-md-10">
+        
+        <!--prodvust-->
+
+        
+        <div class="row">
+
+          <div class="col-md-4 mb-2">
+
+          <div class="card">
+  <img class="card-img-top" src="..." alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Add</a>
+    <a href="#" class="btn btn-primary">View More</a>
+  </div>
+</div>
+            
+
+          </div>
+          <div class="col-md-4">
+
+          <div class="card" >
+  <img class="card-img-top" src="..." alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Add</a>
+    <a href="#" class="btn btn-primary">View More</a>
+  </div>
+</div>
+            
+          </div>
+          <div class="col-md-4">
+
+          <div class="card" >
+  <img class="card-img-top" src="..." alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Add</a>
+    <a href="#" class="btn btn-primary">View More</a>
+  </div>
+</div>
+            
+          </div>
+
+
+          <div class="col-md-4">
+
+<div class="card">
+<img class="card-img-top" src="..." alt="Card image cap">
+<div class="card-body">
+<h5 class="card-title">Card title</h5>
+<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+<a href="#" class="btn btn-primary">Add</a>
+<a href="#" class="btn btn-primary">View More</a>
+</div>
+</div>
+  
+
+</div>
+
+<div class="col-md-4">
+
+<div class="card">
+<img class="card-img-top" src="..." alt="Card image cap">
+<div class="card-body">
+<h5 class="card-title">Card title</h5>
+<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+<a href="#" class="btn btn-primary">Add</a>
+<a href="#" class="btn btn-primary">View More</a>
+</div>
+</div>
+  
+
+</div>
+
+<div class="col-md-4">
+
+<div class="card">
+<img class="card-img-top" src="..." alt="Card image cap">
+<div class="card-body">
+<h5 class="card-title">Card title</h5>
+<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+<a href="#" class="btn btn-primary">Add</a>
+<a href="#" class="btn btn-primary">View More</a>
+</div>
+</div>
+  
+
+</div>
+
+          
+
+        </div>
+
+
+
+      </div>
+
+      <div class="col-md-2 bg-secondary p-0">
+        <ul class="navbar-nav me-auto text-center">
+          <li class="nav-item bg-info">
+            <a href="#" class="nav-link text-light" ><h4>catg1</h4></a>
+
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link text-light" >catg1</a>
+
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link text-light" >catg1</a>
+
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link text-light" >catg1</a>
+
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link text-light" >catg1</a>
+
+          </li>
+
+          <li class="nav-item bg-info">
+            <a href="#" class="nav-link text-light" ><h4>catg1</h4></a>
+
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link text-light" >catg1</a>
+
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link text-light" >catg1</a>
+
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link text-light" >catg1</a>
+
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link text-light" >catg1</a>
+
+          </li>
+
+        </ul>
+        
+        <!--sidenav-->
+
+      </div>
+    </div>
+
+    
+
+
+
+
   <div class="bg-info p-3 text-center">
     <p>a footer note</p>
   </div>  
   </div>
+
+
+
+
+  
+  
 
 
 
